@@ -335,3 +335,4 @@ const isPalindrome = (inputUser) => {
 console.log(isPalindrome("kasur rusak")); // true
 console.log(isPalindrome("kodok")); // true
 console.log(isPalindrome("makan malam")); // false
+
